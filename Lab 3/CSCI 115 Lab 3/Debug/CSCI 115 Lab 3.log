@@ -1,0 +1,37 @@
+﻿  Source.cpp
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(109,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(121,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(129,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(141,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(149,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(162,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(172,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(184,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(192,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(204,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(212,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 3\CSCI 115 Lab 3\Source.cpp(225,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
