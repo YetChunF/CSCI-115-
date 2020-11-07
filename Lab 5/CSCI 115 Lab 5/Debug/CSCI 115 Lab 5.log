@@ -1,0 +1,14 @@
+﻿  Source.cpp
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 5\CSCI 115 Lab 5\Source.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 5\CSCI 115 Lab 5\Source.cpp(111,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 5\CSCI 115 Lab 5\Source.cpp(115,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 5\CSCI 115 Lab 5\Source.cpp(122,21): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  CSCI 115 Lab 5.vcxproj -> C:\Users\fongy\Desktop\CSCI 115\CSCI 115 Lab\Lab 5\CSCI 115 Lab 5\Debug\CSCI 115 Lab 5.exe
